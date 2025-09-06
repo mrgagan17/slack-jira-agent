@@ -11,7 +11,7 @@ Features
 - Uses AI to detect tasks in messages.
 - Creates Jira tickets automatically.
 - Sets **priority** and **due dates** based on task urgency.
-- Ready for future updates like marking tasks as done.
+
 
 
 Screenshots
